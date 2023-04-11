@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Next.js Leaflet Starter</title>
+        <title>Keeton's Santa Tracker!</title>
         <meta name="description" content="Create mapping apps with Next.js Leaflet Starter" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -48,7 +48,7 @@ export default function Home() {
       <Section>
         <Container>
           <h1 className={styles.title}>
-            Next.js Leaflet Starter
+            Keeton's Santa Tracker
           </h1>
 
           <Map className={styles.homeMap} width="800" height="400" center={[0, 0]} zoom={1}>
@@ -121,7 +121,7 @@ export default function Home() {
           </p>
 
           <p className={styles.view}>
-            <Button href="https://github.com/colbyfayock/next-leaflet-starter">Vew on GitHub</Button>
+            <Button href="https://github.com/keetonlanzy/my-santa-tracker">View on GitHub</Button>
           </p>
         </Container>
       </Section>
