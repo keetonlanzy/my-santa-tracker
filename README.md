@@ -1,3 +1,5 @@
+Credit/Source: https://github.com/colbyfayock/my-santa-tracking-app
+
 # 🍃 Next.js Leaflet Starter
 
 Jumpstart your new Next.js mapping project with Leaflet!
